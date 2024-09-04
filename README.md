@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Salah</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
-<img align="center" alt="Coding" width=600 src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg">
+<img align="center" alt="Coding" width=1000 src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
 
