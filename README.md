@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadsala7" alt="ziadsala7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7/XO_Game](https://github.com/ZiadSala7/XO_Game)
+- 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
