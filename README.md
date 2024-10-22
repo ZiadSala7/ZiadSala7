@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Salah</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
-<img align="center" alt="Coding" width=1000 height=400
-  src="[https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-adel-ali&show_icons=true&locale=en" alt="mahmoud-adel-ali" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-adel-ali&" alt="mahmoud-adel-ali" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
 
