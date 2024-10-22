@@ -16,8 +16,8 @@
 ## 📩 Connect with me
 <p align="left">
     <a href="mailto:zslah1935@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="[https://www.facebook.com/profile.php?id=100035383894778](https://www.facebook.com/zezo.salah.73700)" title="Facebook"><img src="[https://img.shields.io/badge/Facebook-%231877F2](https://www.facebook.com/zezo.salah.73700).svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="[https://www.linkedin.com/in/mahmoud-adel-ali-mohamed-707bab250/](https://www.linkedin.com/in/ziad-salah-338378262/)" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="https://www.facebook.com/zezo.salah.73700" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ziad-salah-338378262/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
