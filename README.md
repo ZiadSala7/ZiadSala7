@@ -4,14 +4,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadsala7" alt="ziadsala7" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
-<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="left" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br>
-- 🌱 I’m currently learning **Mobile App with flutter**
+- 🌱 I’m currently learning ## Mobile App with flutter ##
 
 - 📫 How to reach me **zslah1935@gmail.com**
-
-
 
 
 
