@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadsala7" alt="ziadsala7" /></a> </p>
-<img style="text-align:center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
 
 <br>
