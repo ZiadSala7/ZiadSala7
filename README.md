@@ -2,23 +2,23 @@
 <h2 align="center">A passionate Flutter developer from Egypt</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadsala7" alt="ziadsala7" /></a> </p>
-<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px" />
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
 
-- 🌱I’m currently learning Mobile App with flutter
+<br>
+- 🌱 I’m currently learning ## Mobile App with flutter ##
 
-- 📫 How to reach me **zslah1935@gmail.com**
-
-
+- 📧 How to reach me **zslah1935@gmail.com**
 
 ## 📩 Connect with me
 <p align="left">
     <a href="mailto:zslah1935@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/zezo.salah.73700" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/ziad-salah-338378262/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/ziad-salah-338378262/" title="LinkedIn"><img style="text-align: center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
