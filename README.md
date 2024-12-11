@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Salah</h1>
 <h2 align="center">A passionate Flutter developer from Egypt</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ziadsala7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadsala7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadsala7" alt="ziadsala7" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **zslah1935@gmail.com**
 
-
+<br>
+<br>
+<br>
 ## 📩 Connect with me
 <p align="left">
     <a href="mailto:zslah1935@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
