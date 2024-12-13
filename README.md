@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZiadSala7?tab=repositories]
 
-- 🌱 I’m currently learning ## Mobile App with flutter ##
+- 🌱 I’m currently learning **Mobile App with flutter**
 
 - 📧 How to reach me **zslah1935@gmail.com**
 
